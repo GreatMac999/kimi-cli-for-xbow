@@ -68,6 +68,7 @@ uv tool install --python 3.13 kimi-cli
 
 ### 第二步：启动 xbow MCP 服务
 
+xbow MCP 项目地址：[ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp)
 根据使用场景选择启动方式：
 
 **使用模拟平台运行（测试）**：
